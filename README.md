@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ## ✌️ Welcome to my GitHub – I'm Stelios Giagkos
 
 🎓 MSc in Data Science (2025), Athens University of Economics and Business  
@@ -63,4 +62,3 @@ My work blends data preprocessing, modeling, scalability, and ethical design int
 
 ---
 
--->
