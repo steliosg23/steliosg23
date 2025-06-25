@@ -7,7 +7,7 @@
 
 ---
 
-📍 Based in Athens | Passionate about AI, Deep Learning, Data Engineering & Visualization
+📍 Passionate about AI, Deep Learning, Data Engineering & Visualization
 
 ---
 
