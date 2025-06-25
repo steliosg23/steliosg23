@@ -3,7 +3,7 @@
 ## ✌️ Welcome to my GitHub – I'm Stelios Giagkos
 
 🎓 MSc in Data Science (2025), Athens University of Economics and Business  
-🎓 BSc in Electrical & Computer Engineering, Democritus University of Thrace  
+🎓 MEng in Electrical & Computer Engineering, Democritus University of Thrace  
 💼 Junior Data Engineer @ EY Greece | AI & Data Department  
 📍 Based in Athens | Passionate about AI, Deep Learning, Data Engineering & Visualization  
 
