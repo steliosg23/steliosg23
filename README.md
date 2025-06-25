@@ -53,10 +53,18 @@ My work blends data preprocessing, modeling, scalability, and ethical design int
 
 ---
 
+## 📈 Closing Remarks
+
+This profile showcases the work I have completed throughout my academic and professional journey, demonstrating my practical application of data science methodologies across various projects. These projects highlight my ability to integrate cross-disciplinary knowledge and leverage advanced tools to solve complex data-related challenges.
+
+While the majority of the work is my own, I have utilized tools such as Large Language Models (LLMs) for assistance in generating ideas, structuring content, and refining certain sections. All external sources and tools have been properly attributed to ensure compliance with academic and professional integrity standards.
+
+This profile is intended for personal academic and professional use only and is not to be reproduced or used by others without proper attribution or explicit permission.
+
+---
+
 ### 📫 Contact Me
 
 📧 Email: [steliosgiagkos@outlook.com](mailto:steliosgiagkos@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/steliosgiagkos](https://linkedin.com/in/steliosgiagkos)
-
----
 
