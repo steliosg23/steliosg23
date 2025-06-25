@@ -34,22 +34,23 @@ My work blends data preprocessing, modeling, scalability, and ethical design int
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Technical Skills
 
-**Languages & Programming:**  
-`Python` • `R` • `SQL` • `LaTeX`
+**Programming Languages:**  
+`Python` (Machine Learning & Deep Learning) • `R` • `C++` • `JavaScript` • `PHP` • `SQL` • `HTML5` • `CSS` • `LaTeX`
 
-**Machine Learning & Deep Learning:**  
-`scikit-learn` • `PyTorch` • `TensorFlow`
+**Machine Learning & AI:**  
+`TensorFlow` • `PyTorch` • `Scikit-learn` • `NLP` • `BERT` • `GloVe`
 
-**Big Data & Pipelines:**  
-`Spark` • `Kafka` • `Hadoop` • `PostgreSQL`
+**Big Data & Tools:**  
+`Spark` • `Hadoop File System (HDFS)` • `SQL` • `SAP` • `PostgreSQL` • `Matplotlib` • `Pandas` • `Tableau`
 
-**Visualization & Storytelling:**  
-`ggplot2` • `Tableau`
+**Data Visualization & Storytelling:**  
+`ggplot2` • `Tableau` • `UX/UI Design` • `Data Analytics`  
 
 **DevOps & Environment:**  
 `Git` • `Linux` • `Docker`
+
 
 ---
 
