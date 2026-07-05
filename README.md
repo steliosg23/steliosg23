@@ -2,7 +2,7 @@
 
 🎓 MSc in Data Science (2025), Athens University of Economics and Business  
 🎓 MEng in Electrical & Computer Engineering, Democritus University of Thrace  
-💼 Data Engineer @ EY Greece | AI & Data Department  
+💼 Data Scientist @ EY Greece | AI & Data.  
 📍 Based in Athens | Passionate about AI, Deep Learning, Data Engineering & Visualization  
 
 ---
